@@ -25,6 +25,9 @@ Geleee Store adalah web e-commerce modern untuk penjualan produk knalpot motor, 
 ---
 
 ## 🚀 Cara Menjalankan di Lokal
+
+klik ini geleee-store.vercel.app
+atau
 1. **Clone/download** project ini ke komputer kamu.
 2. **Jalankan server lokal** (wajib, agar localStorage & routing berjalan):
    ```
